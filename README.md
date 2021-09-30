@@ -1,5 +1,9 @@
-### ![](https://raw.githubusercontent.com/basia1402/ikonki/master/junior.png)
-![](https://raw.githubusercontent.com/basia1402/ikonki/master/praca.png)
+ ![](https://raw.githubusercontent.com/basia1402/ikonki/master/junior.png)
+ ### I like my job 😀
+  - I like my job ![](https://raw.githubusercontent.com/basia1402/ikonki/master/praca.png)
+
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
