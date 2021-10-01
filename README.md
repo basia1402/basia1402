@@ -11,7 +11,7 @@ My advantage is the ability to effectively plan working time, and the knowledge 
 I devote my free time to self-education in the field of tests, databases and the basics of programming.
 I will be happy to join the team that I will be able to support with my skills. 
 
-![LinkedIn](https://www.linkedin.com/in/barbara-galwas)
+[LinkedIn](https://www.linkedin.com/in/barbara-galwas)
 
 
 - 🌱 I’m currently learning ...
