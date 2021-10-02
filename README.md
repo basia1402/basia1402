@@ -1,10 +1,11 @@
  ![](https://raw.githubusercontent.com/basia1402/ikonki/master/junior.png)
- ### I like my job 😀
-  ###  ![](https://raw.githubusercontent.com/basia1402/ikonki/master/praca.png)
+ 
+ ## I like my job 😀
+ ![](https://raw.githubusercontent.com/basia1402/ikonki/master/praca.png)
 
 
 ****
-### About me
+# About me
 Therefore, my professional goal is to enter the IT industry and develop as a Junior Software Tester. I gained the necessary knowledge in this field during 115 hours of the practical "Software Tester" course at SDA.
 What I like about testing is that I have the opportunity to test something as one of the first people, and that I have an impact on improving a given program or application. I like new solutions.
 My advantage is the ability to effectively plan working time, and the knowledge related to documenting and reporting test results.
@@ -13,7 +14,7 @@ I will be happy to join the team that I will be able to support with my skills.
 
 [LinkedIn](https://www.linkedin.com/in/barbara-galwas)
 ****
-### Tools
+## Tools
 
 - [Jira](https://www.atlassian.com),[Trelo](https://trello.com) - Issue tracking and project management tool for developers
 - [Postman](https://www.postman.com) - Testing tool for REST API
@@ -28,7 +29,7 @@ I will be happy to join the team that I will be able to support with my skills.
 - [GitLab](https://about.gitlab.com/) -  Open source web-based DevOps lifecycle tool that provides a Git-repository
 - [GitHub](https://github.com/) - A provider of Internet hosting for software development and version control using Git
 ****
-### Tech skills
+## Tech skills
 
 - Creating test cases
 - Software testing
@@ -44,7 +45,7 @@ I will be happy to join the team that I will be able to support with my skills.
 - InteliJ IDEA
 - Pakiet MS Office
 ****
-### Professional Education
+## Professional Education
 
 2021 Software Development Academy
 Kurs "Software Testr" 115h
@@ -58,24 +59,24 @@ Kurs "Software Testr" 115h
  - Risk identification
  - SCRUM
  
- ### 2017-2019 Fotoedukacja Private Photo School
+ ## 2017-2019 Fotoedukacja Private Photo School
   - Photography workshops
   - Processing of computer graphics
   - Photoshop, Lightrom, Illustrator
 ****
-### Certificates
+## Certificates
 - [Software Tester](https://app.diplomasafe.com/pl-PL/diploma/d0609b962fe6ac30596d07a1e5cb758b86d29ff72)
 - [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d7d5774e8a70b2afc7c122b01919064047628511d)
 ****
-### Courses
+## Courses
 [Git](https://jaktestowac.pl/git/)
 ****
-### Technical Books read
+## Technical Books read
 - [Certyfikowany tester ISTQB Adam Roman, Lucjan Stapp ](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d) 
 - [Pierwsze kroki z SQL. Praktyczne podejście dla początkujących Thomas Nield](https://helion.pl/ksiazki/pierwsze-kroki-z-sql-praktyczne-podejscie-dla-poczatkujacych-thomas-nield,pksqlp.htm#format/d)
 - [Superskuteczne strategie opanowania języków obcych. Twój prywatny coach. Wydanie II](https://helion.pl/ksiazki/superskuteczne-strategie-opanowania-jezykow-obcych-twoj-prywatny-coach-wydanie-ii-ewa-eldridge,ssoj2v.htm#format/d)
 ****
-### Blogs read
+## Blogs read
  - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  - [frontlive.pl](https://frontlive.pl/)
  - [flynerd.pl](https://www.flynerd.pl/)
