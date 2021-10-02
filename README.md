@@ -53,7 +53,7 @@ I will be happy to join the team that I will be able to support with my skills.
 - [Superskuteczne strategie opanowania języków obcych. Twój prywatny coach. Wydanie II](https://helion.pl/ksiazki/superskuteczne-strategie-opanowania-jezykow-obcych-twoj-prywatny-coach-wydanie-ii-ewa-eldridge,ssoj2v.htm#format/d)
 
 ### Blogs read
- - [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
+ - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  - [frontlive.pl](https://frontlive.pl/)
  - [flynerd.pl](https://www.flynerd.pl/)
  - [guru99](https://www.guru99.com/)
