@@ -39,6 +39,27 @@ I will be happy to join the team that I will be able to support with my skills.
 - Jira
 - SCRUM
 - Java
+
+### Certificates
+- [Software Tester](https://app.diplomasafe.com/pl-PL/diploma/d0609b962fe6ac30596d07a1e5cb758b86d29ff72)
+- [SCRUM](https://app.diplomasafe.com/pl-PL/diploma/d7d5774e8a70b2afc7c122b01919064047628511d)
+
+### Courses
+[Git](https://jaktestowac.pl/git/)
+
+### Technical Books read
+- [Certyfikowany tester ISTQB Adam Roman, Lucjan Stapp ](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d) 
+- [Pierwsze kroki z SQL. Praktyczne podejście dla początkujących Thomas Nield](https://helion.pl/ksiazki/pierwsze-kroki-z-sql-praktyczne-podejscie-dla-poczatkujacych-thomas-nield,pksqlp.htm#format/d)
+- [Superskuteczne strategie opanowania języków obcych. Twój prywatny coach. Wydanie II](https://helion.pl/ksiazki/superskuteczne-strategie-opanowania-jezykow-obcych-twoj-prywatny-coach-wydanie-ii-ewa-eldridge,ssoj2v.htm#format/d)
+
+### Blogs read
+ - [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
+ - [frontlive.pl](https://frontlive.pl/)
+ - [flynerd.pl](https://www.flynerd.pl/)
+ - [guru99](https://www.guru99.com/)
+ - [testerzy.pl](https://testerzy.pl/)
+
+
 <!---
 basia1402/basia1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
