@@ -57,6 +57,11 @@ Kurs "Software Testr" 115h
  - Reposting Bugs
  - Risk identification
  - SCRUM
+ 
+ ### 2017-2019 Fotoedukacja Private Photo School
+  - Photography workshops
+  - Processing of computer graphics
+  - Photoshop, Lightrom, Illustrator
 ****
 ### Certificates
 - [Software Tester](https://app.diplomasafe.com/pl-PL/diploma/d0609b962fe6ac30596d07a1e5cb758b86d29ff72)
