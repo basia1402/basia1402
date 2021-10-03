@@ -46,9 +46,10 @@ I will be happy to join the team that I will be able to support with my skills.
 - Pakiet MS Office
 ****
 ## Professional Education
-
-2021 Software Development Academy
-Kurs "Software Testr" 115h
+****
+#### 2021 Software Development Academy
+ Kurs "Software Testr" 115h
+ 
  - Basics of databases
  - Testing pages and complications
  - Introduction to programming
@@ -59,7 +60,8 @@ Kurs "Software Testr" 115h
  - Risk identification
  - SCRUM
  
- ## 2017-2019 Fotoedukacja Private Photo School
+ #### 2017-2019 Fotoedukacja Private Photo School
+
   - Photography workshops
   - Processing of computer graphics
   - Photoshop, Lightrom, Illustrator
