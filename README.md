@@ -1,6 +1,4 @@
-![basia1402 GitHub stats](https://github-readme-stats.vercel.app/api?username=basia1402&theme=default&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basia1402)](https://github.com/anuraghazra/github-readme-stats)
+![basia1402 GitHub stats](https://github-readme-stats.vercel.app/api?username=basia1402&theme=default&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basia1402)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
