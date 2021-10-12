@@ -17,7 +17,7 @@ I devote my free time to self-education in the field of tests, databases and the
 I will be happy to join the team that I will be able to support with my skills. 
 
 - 🔗[LinkedIn](https://www.linkedin.com/in/barbara-galwas)
-- 📫[E-mail](galwasbasia@gmail.com)
+- 📫[E-mail](https://galwasbasia@gmail.com)
 ****
 ## Tools
 
