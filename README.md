@@ -51,7 +51,7 @@ I will be happy to join the team that I will be able to support with my skills.
 - Pakiet MS Office
 ****
 ## Professional Education
-****
+
 #### 2021 Software Development Academy
  Kurs "Software Testr" 105h
  
